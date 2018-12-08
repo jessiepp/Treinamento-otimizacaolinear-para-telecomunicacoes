@@ -1,1 +1,1 @@
-# Treinamento-otimizacaolinear-para-telecomunicacoes
+# Treinamento Em Otimização Linear Aplicado em Telecomunicações
